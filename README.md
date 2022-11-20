@@ -1,0 +1,1 @@
+En esta practica se crean dos ramas y con el comando git merge [nombre rama] se uniran la rama main y develop
